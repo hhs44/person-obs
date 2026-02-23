@@ -136,8 +136,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,20 +231,20 @@
             "id": "f131380c5c9765fc",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "empty",
               "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           },
           {
             "id": "68019e83ba25eb70",
             "type": "leaf",
             "state": {
-              "type": "BC-tree",
+              "type": "empty",
               "state": {},
-              "icon": "feather-corner-right-down",
-              "title": "Breadcrumbs Down"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           },
           {
@@ -268,9 +267,39 @@
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
+          },
+          {
+            "id": "8e39c1e0e6d24a33",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
+            }
+          },
+          {
+            "id": "4c3cafe7b433ce82",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
+            }
+          },
+          {
+            "id": "f2c02e6d6d46db11",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 11
       },
       {
         "id": "ab8a21d13dc3619c",
@@ -290,11 +319,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -310,19 +340,22 @@
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "dashboard-navigator:Open dashboard navigator": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
-      "map-of-content:Update Map of Content": false,
       "infranodus-graph-view:InfraNodus Graph View": false,
       "publish:发布更改": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "map-of-content:Update Map of Content": false
     }
   },
-  "active": "25fb6c0ada754a8b",
+  "active": "8ddc23577c236de7",
   "lastOpenFiles": [
-    "未命名.md",
-    "灵感/2026-02-23.md",
-    "未命名 1.md",
+    "灵感/灵感.md",
     "未命名.canvas",
+    "mcp篇/mcp篇.md",
     "mcp篇/win-docker.md",
+    "claude篇/claude篇.md",
+    "灵感/2026-02-23.md",
+    "未命名.md",
+    "未命名 1.md",
     "灵感/笔记驱动的AI智能体，agent的一切都可以可视化.md",
     "claude篇/claude常用命令.md",
     "claude篇",
