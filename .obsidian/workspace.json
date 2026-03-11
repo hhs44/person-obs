@@ -8,59 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ddc23577c236de7",
+            "id": "07c89b653b1f71fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "灵感/2026-02-23.md",
+                "file": "openclaw学习/skills/all-skill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-23"
-            }
-          },
-          {
-            "id": "55b5687d00855aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "灵感/笔记驱动的AI智能体，agent的一切都可以可视化.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "笔记驱动的AI智能体，agent的一切都可以可视化"
-            }
-          },
-          {
-            "id": "2c6c0c5c0130eaa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "灵感/笔记驱动的AI智能体，agent的一切都可以可视化.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "笔记驱动的AI智能体，agent的一切都可以可视化"
-            }
-          },
-          {
-            "id": "0d46b0cead9f84e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "claude篇/claude常用命令.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "claude常用命令"
+              "title": "all-skill"
             }
           }
         ]
@@ -114,16 +72,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
-            }
-          },
-          {
-            "id": "948a745fac1470a3",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
             }
           },
           {
@@ -248,15 +196,6 @@
             }
           },
           {
-            "id": "3198552517cd6ccf",
-            "type": "leaf",
-            "state": {
-              "type": "infranodus-graph-view",
-              "state": {},
-              "icon": "infranodus-icon"
-            }
-          },
-          {
             "id": "f3e60812cf51c29f",
             "type": "leaf",
             "state": {
@@ -272,20 +211,20 @@
             "id": "8e39c1e0e6d24a33",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "empty",
               "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           },
           {
             "id": "4c3cafe7b433ce82",
             "type": "leaf",
             "state": {
-              "type": "BC-tree",
+              "type": "empty",
               "state": {},
-              "icon": "feather-corner-right-down",
-              "title": "Breadcrumbs Down"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           },
           {
@@ -297,25 +236,109 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          }
-        ],
-        "currentTab": 11
-      },
-      {
-        "id": "ab8a21d13dc3619c",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "25fb6c0ada754a8b",
+            "id": "8e82303796b95bf6",
             "type": "leaf",
             "state": {
-              "type": "map-of-content",
+              "type": "empty",
               "state": {},
-              "icon": "stacked-levels",
-              "title": "Map of Content"
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "13f815cfe0c34ec6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "2ceef75ef0c60c80",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "d5c3ee6ad66b709c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "86c5118824f65c3b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "b7bebcf08917c047",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "1a23891dd34f20ac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "7d10afe58e912546",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "7db905a88c525687",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "BC-matrix"
+            }
+          },
+          {
+            "id": "2e3044820a5a3df7",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "BC-tree"
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -337,30 +360,52 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:创建新看板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "infranodus-graph-view:InfraNodus Graph View": false,
       "publish:发布更改": false,
-      "workspaces:管理工作区布局": false,
-      "map-of-content:Update Map of Content": false
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "8ddc23577c236de7",
+  "active": "8830c137089ac705",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "灵感/2026-02-23.md",
-    "灵感/笔记驱动的AI智能体，agent的一切都可以可视化.md",
-    "灵感/灵感.md",
-    "mcp篇/mcp篇.md",
-    "mcp篇/win-docker.md",
-    "claude篇/claude篇.md",
-    "未命名.md",
-    "未命名 1.md",
+    "Predix/todo.md",
+    "Predix/polymarket参考图.md",
+    "项目/榨干GLM5计划之小说制造机.md",
+    "项目/polymarket智能投资助手.md",
+    "Pasted image 20260308211828.png",
+    "Pasted image 20260308155257.png",
+    "Pasted image 20260308154433.png",
     "claude篇/claude常用命令.md",
-    "claude篇",
-    "灵感",
-    "mcp篇",
-    "创建链接.md"
+    "灵感/笔记驱动的AI智能体，agent的一切都可以可视化.md",
+    "Predix/project.md",
+    "claude篇/claude篇.md",
+    "灵感/灵感.md",
+    "灵感/团队设计.md",
+    "trae/tmp.md",
+    "trae/未命名.canvas",
+    "openclaw学习/skills/need-skill.md",
+    "trae",
+    "openclaw学习/skills/all-skill.md",
+    "openclaw学习/skills",
+    "openclaw学习/openclaw-mutil-agent-demo.md",
+    "openclaw学习/project1/tasklists.md",
+    "openclaw学习/project1/messageview.md",
+    "openclaw学习/project1/task1page.md",
+    "openclaw-mutil-agent-demo/project1/project1.md",
+    "openclaw-mutil-agent-demo/skill篇.md",
+    "openclaw-mutil-agent-demo/未命名/未命名.md",
+    "Excalidraw/openclaw提升方案.md",
+    "openclaw-mutil-agent-demo/未命名",
+    "Excalidraw/Excalidraw.md",
+    "灵感/000.md",
+    "api/minmax.com.md",
+    "api/api.md",
+    "api",
+    "openclaw学习/project1",
+    "project1/project1.md",
+    "项目",
+    "Predix",
+    "openclaw学习",
+    "Excalidraw",
+    "claude篇"
   ]
 }
